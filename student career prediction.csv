@@ -1,0 +1,857 @@
+do you like coding/ a good coder?,Are you intrested in ML?,Are you interested in research?,intrested in using ML models to solve DS problems?,intrested in build and manage data infrastructure?,do you enjoy consulting and advising AI solutions?,intrested in business insights and decision making?,suggested career
+0,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+1,yes,yes,no,no,yes,yes,no,ML Engineer
+2,no,yes,no,yes,yes,yes,yes,AI consultant
+3,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+4,yes,yes,yes,no,no,no,yes,AI/ML researcher
+5,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+6,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+7,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+8,yes,yes,no,no,yes,yes,yes,ML Engineer
+9,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+10,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+11,yes,yesno,yes,yes,yes,yes,yes,Data engineer
+12,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+13,yes,no,yes,no,no,yes,yes,Software engineer
+14,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+15,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+16,no,yes,no,yes,yes,yes,yes,AI consultant
+17,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+18,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+19,no,yes,yes,yes,yes,yes,yes,AI consultant
+20,no,yes,no,yes,yes,no,yes,AI product manager
+21,yes,no,yes,yes,yes,no,yes,Data engineer
+22,no,yes,yes,yes,yes,yes,no,AI consultant
+23,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+24,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+25,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+26,no,yes,no,yes,yes,yes,yes,AI consultant
+27,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+28,yes,no,yes,yes,yes,yes,yes,Data engineer
+29,yes,no,no,yes,yes,no,yes,Data engineer
+30,no,yes,yes,yes,yes,yes,yes,AI consultant
+31,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+32,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+33,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+34,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+35,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+36,no,yes,yes,yes,yes,yes,yes,AI consultant
+37,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+38,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+39,no,yes,yes,yes,yes,yes,yes,AI consultant
+40,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+41,yes,no,no,yes,yes,no,no,Data engineer
+42,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+43,yes,no,yes,no,yes,yes,yes,Data engineer
+44,no,yes,no,no,yes,yes,no,AI consultant
+45,yes,no,yes,yes,yes,no,no,Data engineer
+46,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+47,yes,no,yes,no,yes,yes,no,Data engineer
+48,yes,no,yes,yes,no,no,no,Software engineer
+49,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+50,no,no,yes,yes,yes,yes,no,Business intelligence analyst
+51,yes,yes,no,no,yes,no,yes,ML Engineer
+52,no,yes,yes,yes,yesno,yes,no,AI consultant
+53,no,yes,yesno,yes,yes,yes,yes,AI consultant
+54,no,yes,yes,no,yes,no,yes,AI product manager
+55,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+56,yes,yes,no,no,yes,yes,yes,ML Engineer
+57,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+58,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+59,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+60,yes,yes,no,no,yes,yes,yes,ML Engineer
+61,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+62,yes,yes,no,no,no,yes,yes,ML Engineer
+63,yes,no,yes,yes,no,yes,yes,Software engineer
+64,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+65,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+66,yes,no,yes,yes,yes,yes,yes,Data engineer
+67,yes,no,yes,yes,no,yes,yes,Software engineer
+68,no,no,yes,yes,yes,no,yes,Data analyst
+69,no,no,yes,yes,yes,yes,yes,Data analyst
+70,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+71,no,yes,no,no,yes,yes,yes,AI consultant
+72,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+73,no,yes,no,yes,yes,yes,no,AI consultant
+74,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+75,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+76,no,yes,yes,yes,yesno,yes,yes,AI consultant
+77,yes,no,yes,yes,yes,yes,yes,Data engineer
+78,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+79,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+80,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+81,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+82,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+83,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+84,yes,no,yes,yes,yes,yes,yes,Data engineer
+85,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+86,yes,no,yes,yes,yes,yes,yes,Data engineer
+87,no,yes,no,yes,yes,yes,no,AI consultant
+88,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+89,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+90,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+91,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+92,no,yes,yes,no,yes,yes,no,AI consultant
+93,no,yes,yes,yes,yes,no,yes,AI product manager
+94,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+95,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+96,yes,no,yes,yes,yes,yes,no,Data engineer
+97,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+98,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+99,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+100,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+101,no,yes,yes,yes,yes,yes,yes,AI consultant
+102,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+103,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+104,no,yes,yes,no,yes,no,yes,AI product manager
+105,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+106,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+107,no,yes,yes,yes,yes,yes,yes,AI consultant
+108,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+109,no,yes,no,yes,yes,yes,yes,AI consultant
+110,no,yes,yes,yes,yes,yes,yes,AI consultant
+111,yes,yes,yes,yes,yes,yes,yesno,AI/ML researcher
+112,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+113,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+114,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+115,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+116,yes,yes,no,no,no,no,yes,ML Engineer
+117,no,no,yes,yes,yes,yes,yes,Data analyst
+118,yes,yes,no,yes,no,yes,no,Applied ml scientist
+119,yes,yes,no,no,yes,no,no,ML Engineer
+120,yes,yesno,no,yes,yes,no,no,Data engineer
+121,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+122,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+123,no,yes,yes,yes,yes,yes,yes,AI consultant
+124,yes,yes,yes,yes,yes,yes,yesno,AI/ML researcher
+125,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+126,no,yes,yes,no,yes,no,yes,AI product manager
+127,no,no,no,no,no,yes,yes,Data analyst
+128,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+129,yes,no,yes,yes,no,yes,yes,Software engineer
+130,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+131,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+132,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+133,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+134,no,no,yes,no,yes,yes,yes,Data analyst
+135,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+136,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+137,no,yes,yes,yes,yes,no,no,AI product manager
+138,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+139,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+140,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+141,yes,yes,yes,no,no,no,yes,AI/ML researcher
+142,yes,no,yes,yes,no,yes,no,Software engineer
+143,no,yes,yes,yes,yes,yes,yes,AI consultant
+144,no,yes,no,no,yes,yes,no,AI consultant
+145,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+146,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+147,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+148,no,yes,yes,yes,yes,no,yes,AI product manager
+149,yes,no,yes,yes,yes,no,no,Data engineer
+150,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+151,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+152,yes,yes,no,yes,yesno,no,yes,Applied ml scientist
+153,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+154,no,yes,yes,yes,yes,yes,no,AI consultant
+155,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+156,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+157,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+158,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+159,yes,yes,no,yes,yes,no,no,Applied ml scientist
+160,no,yes,yes,no,yes,no,yes,AI product manager
+161,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+162,yes,no,no,yes,yes,no,yes,Data engineer
+163,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+164,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+165,yes,no,yes,yesno,yes,yes,yes,Data engineer
+166,no,no,yesno,yes,yes,yes,yes,Data analyst
+167,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+168,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+169,no,yes,no,yes,no,yes,yes,AI consultant
+170,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+171,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+172,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+173,no,no,yes,yes,yes,yes,yes,Data analyst
+174,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+175,yesno,no,yes,yes,yes,yes,yes,Data analyst
+176,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+177,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+178,yes,yes,yes,no,yes,no,yesno,AI/ML researcher
+179,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+180,yes,yes,yes,no,no,yes,no,AI/ML researcher
+181,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+182,yes,no,yes,no,yes,yes,yes,Data engineer
+183,yes,yes,yes,yes,no,no,no,AI/ML researcher
+184,yes,no,yes,no,yes,yes,yes,Data engineer
+185,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+186,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+187,yes,yes,no,yes,yesno,no,yes,Applied ml scientist
+188,no,yes,yes,yes,no,yes,yes,AI consultant
+189,no,yes,no,no,yes,yes,yes,AI consultant
+190,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+191,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+192,no,yes,yesno,no,yes,no,no,AI product manager
+193,yes,no,yes,yes,no,yes,yes,Software engineer
+194,yes,no,yes,yes,yes,yes,yes,Data engineer
+195,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+196,no,yes,yes,yes,yes,yes,no,AI consultant
+197,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+198,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+199,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+200,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+201,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+202,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+203,yes,no,no,yes,yes,no,yes,Data engineer
+204,no,yes,no,no,no,yes,yes,AI consultant
+205,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+206,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+207,yes,no,no,yes,yes,yes,yes,Data engineer
+208,yes,no,no,yes,yes,yes,no,Data engineer
+209,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+210,no,yes,yes,yes,yes,yes,yes,AI consultant
+211,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+212,no,yes,yes,yes,yes,yes,yes,AI consultant
+213,no,yes,yes,no,no,yes,yes,AI consultant
+214,yes,no,no,yes,yes,yes,yes,Data engineer
+215,yes,no,yes,no,no,yes,no,Software engineer
+216,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+217,no,yes,yesno,yes,yes,yes,yes,AI consultant
+218,no,yes,yes,no,yes,no,yes,AI product manager
+219,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+220,no,yes,yes,yes,yes,yes,yes,AI consultant
+221,yes,no,yes,yes,yes,no,yes,Data engineer
+222,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+223,yes,yes,no,no,yes,yes,yes,ML Engineer
+224,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+225,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+226,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+227,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+228,yes,yes,yes,no,no,no,yes,AI/ML researcher
+229,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+230,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+231,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+232,no,yes,yes,yes,no,yes,yes,AI consultant
+233,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+234,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+235,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+236,yes,no,no,yes,yes,yes,yes,Data engineer
+237,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+238,yes,no,yes,no,yes,no,yes,Data engineer
+239,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+240,yes,yes,yes,yes,no,no,no,AI/ML researcher
+241,no,no,yes,yes,yes,yes,yes,Data analyst
+242,yes,no,yes,yes,yes,yes,yes,Data engineer
+243,no,yes,yes,yes,no,yes,no,AI consultant
+244,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+245,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+246,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+247,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+248,no,yes,yes,yes,yes,yes,yes,AI consultant
+249,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+250,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+251,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+252,no,no,no,yes,yes,yes,yes,Data analyst
+253,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+254,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+255,yes,no,no,no,no,yes,no,Software engineer
+256,yes,yes,yes,yes,yes,yesno,yes,AI/ML researcher
+257,no,yes,no,yes,yes,yes,yes,AI consultant
+258,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+259,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+260,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+261,no,yes,yes,yes,no,yes,yes,AI consultant
+262,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+263,no,yes,yes,no,no,yes,yes,AI consultant
+264,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+265,yes,no,yes,yes,no,yes,yes,Software engineer
+266,yes,no,yes,yes,yes,yes,yes,Data engineer
+267,yes,yes,yes,no,no,no,yes,AI/ML researcher
+268,yes,no,no,yes,yes,yes,yes,Data engineer
+269,yes,yes,yes,no,no,no,yes,AI/ML researcher
+270,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+271,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+272,yesno,yes,no,yes,no,no,no,AI product manager
+273,yes,yes,no,no,yes,yes,yes,ML Engineer
+274,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+275,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+276,yes,no,yes,yes,yes,no,no,Data engineer
+277,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+278,yes,no,yes,no,yes,yes,yes,Data engineer
+279,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+280,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+281,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+282,yes,no,yes,yes,yes,yes,no,Data engineer
+283,yes,no,no,yes,yes,yes,yes,Data engineer
+284,yes,no,yes,yes,no,yes,no,Software engineer
+285,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+286,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+287,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+288,yes,yes,no,no,no,yes,no,ML Engineer
+289,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+290,no,yes,yes,yes,no,no,yes,AI product manager
+291,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+292,no,yes,yes,yes,yes,yes,no,AI consultant
+293,yes,no,yes,no,yes,yes,yes,Data engineer
+294,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+295,no,yes,yes,no,yes,yes,yes,AI consultant
+296,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+297,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+298,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+299,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+300,yes,no,yes,yes,yes,yes,yes,Data engineer
+301,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+302,no,yes,yes,yes,yes,yes,no,AI consultant
+303,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+304,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+305,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+306,yes,yesno,yes,yes,yes,yes,no,Data engineer
+307,no,yes,no,yes,yes,no,no,AI product manager
+308,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+309,yes,no,no,yes,yes,yes,yes,Data engineer
+310,yes,no,yes,yes,yes,no,yes,Data engineer
+311,no,yes,yes,yes,yes,no,yes,AI product manager
+312,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+313,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+314,no,yes,yes,no,yes,yesno,yes,AI product manager
+315,yes,no,yes,yes,no,no,yes,Software engineer
+316,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+317,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+318,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+319,yes,no,yes,yes,yes,no,yes,Data engineer
+320,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+321,yes,no,yes,yes,yes,no,yes,Data engineer
+322,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+323,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+324,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+325,yes,no,yes,yes,no,yes,yes,Software engineer
+326,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+327,yes,no,yes,yes,yes,yes,yes,Data engineer
+328,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+329,yes,no,yes,no,yes,yes,no,Data engineer
+330,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+331,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+332,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+333,yes,no,no,no,no,yes,no,Software engineer
+334,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+335,yes,yes,yes,yes,yes,yesno,yes,AI/ML researcher
+336,no,yes,yes,yes,yes,yes,yes,AI consultant
+337,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+338,yes,no,no,yes,yes,yes,yes,Data engineer
+339,yes,no,yes,yes,yes,no,yes,Data engineer
+340,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+341,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+342,no,no,no,no,yes,no,yes,Data analyst
+343,yes,no,yes,yes,yes,yes,yes,Data engineer
+344,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+345,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+346,yes,yes,no,yes,no,yes,no,Applied ml scientist
+347,no,yes,no,yes,yes,yes,yes,AI consultant
+348,no,no,yes,yes,yes,yes,yes,Data analyst
+349,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+350,yes,yes,yes,yes,no,no,no,AI/ML researcher
+351,yes,no,yes,no,no,no,yes,Software engineer
+352,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+353,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+354,yes,yes,no,no,no,yes,yes,ML Engineer
+355,no,yes,no,no,yes,yes,yes,AI consultant
+356,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+357,no,yes,yes,yes,yes,yes,yes,AI consultant
+358,no,yes,yes,yes,no,yes,yes,AI consultant
+359,no,no,no,yes,yes,yes,yes,Data analyst
+360,yes,no,yes,yes,yes,yes,yes,Data engineer
+361,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+362,yes,no,yes,yes,yes,yes,no,Data engineer
+363,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+364,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+365,no,yes,yes,yes,yes,no,yes,AI product manager
+366,no,yes,yes,yes,yes,yes,yes,AI consultant
+367,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+368,yes,yesno,yes,yes,no,yes,yes,Software engineer
+369,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+370,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+371,no,no,yes,yes,yes,yes,no,Business intelligence analyst
+372,yes,no,yes,no,yes,yes,yes,Data engineer
+373,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+374,yes,no,yes,yes,yes,yes,yes,Data engineer
+375,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+376,no,yes,yes,yes,yes,yes,no,AI consultant
+377,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+378,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+379,no,yes,yes,yes,yes,yes,yes,AI consultant
+380,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+381,no,yes,yes,yes,yes,yes,no,AI consultant
+382,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+383,yes,no,no,no,yes,yes,yes,Data engineer
+384,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+385,no,yes,yes,yes,yes,no,yes,AI product manager
+386,no,yes,yes,yes,yes,yes,yes,AI consultant
+387,no,yes,yes,yes,yes,yes,yes,AI consultant
+388,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+389,yes,yes,yes,yesno,yes,yes,yes,AI/ML researcher
+390,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+391,no,yes,yes,yes,yes,yes,no,AI consultant
+392,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+393,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+394,no,yes,yes,yes,yes,no,yes,AI product manager
+395,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+396,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+397,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+398,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+399,yes,yes,yes,yesno,no,yes,no,AI/ML researcher
+400,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+401,yes,yes,yes,yes,yes,yes,yesno,AI/ML researcher
+402,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+403,yes,no,yes,yes,yes,yes,yes,Data engineer
+404,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+405,yes,no,yes,yes,yes,yes,yes,Data engineer
+406,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+407,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+408,no,yes,yes,yes,yes,yes,yes,AI consultant
+409,no,yes,yes,yes,yes,yes,yes,AI consultant
+410,no,no,yes,yes,yes,yes,yes,Data analyst
+411,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+412,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+413,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+414,yes,no,no,yes,yes,yes,yes,Data engineer
+415,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+416,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+417,no,yes,yes,yes,yes,yes,yes,AI consultant
+418,yes,yes,yes,no,no,yes,no,AI/ML researcher
+419,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+420,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+421,yes,no,yes,no,yes,no,yes,Data engineer
+422,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+423,yes,no,yes,no,yes,yes,no,Data engineer
+424,yes,no,yes,no,yes,no,no,Data engineer
+425,yes,yes,yesno,yes,yes,yes,yes,Applied ml scientist
+426,yes,no,yes,no,yes,yesno,yes,Data engineer
+427,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+428,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+429,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+430,yes,no,no,yes,yes,yes,no,Data engineer
+431,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+432,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+433,yes,no,yes,no,yes,yes,yes,Data engineer
+434,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+435,no,yes,yes,yes,yes,yes,yes,AI consultant
+436,yes,yes,no,yes,no,no,yes,Applied ml scientist
+437,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+438,no,yes,yes,yes,yes,yes,yes,AI consultant
+439,no,yes,yes,yes,no,no,yes,AI product manager
+440,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+441,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+442,yes,no,yes,yes,yes,yes,no,Data engineer
+443,yes,no,yes,yes,no,yes,yes,Software engineer
+444,no,yes,yes,yes,yes,yesno,yes,AI product manager
+445,no,yes,yes,no,yes,yes,no,AI consultant
+446,yes,yes,no,yes,no,yes,no,Applied ml scientist
+447,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+448,yes,no,yes,yes,yes,yes,yes,Data engineer
+449,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+450,yesno,no,yes,yes,yes,yes,yes,Data analyst
+451,yes,no,yes,yes,yes,yesno,yes,Data engineer
+452,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+453,no,yes,no,yes,yes,yes,yes,AI consultant
+454,yes,no,no,no,yes,yes,yes,Data engineer
+455,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+456,no,yes,yes,yes,yes,yes,no,AI consultant
+457,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+458,no,yes,yes,yes,yes,yes,yes,AI consultant
+459,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+460,yes,yes,yes,no,no,no,yes,AI/ML researcher
+461,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+462,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+463,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+464,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+465,yes,no,no,no,yes,yes,yes,Data engineer
+466,yes,yes,yes,yesno,yes,yes,yes,AI/ML researcher
+467,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+468,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+469,no,yes,yes,yes,yes,no,yes,AI product manager
+470,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+471,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+472,yes,no,yes,no,yes,yes,no,Data engineer
+473,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+474,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+475,yes,yes,no,no,yes,yes,no,ML Engineer
+476,no,yes,no,no,yes,yes,yes,AI consultant
+477,yes,yes,no,yes,no,yes,no,Applied ml scientist
+478,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+479,yes,yes,yes,no,no,no,yes,AI/ML researcher
+480,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+481,no,yes,yes,yes,yes,yes,yes,AI consultant
+482,yes,yesno,yes,yes,yes,yes,yes,Data engineer
+483,no,yes,no,no,yes,no,no,AI product manager
+484,no,yes,yes,no,yes,yes,no,AI consultant
+485,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+486,no,yes,yes,yes,yes,yes,yes,AI consultant
+487,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+488,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+489,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+490,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+491,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+492,yes,no,yes,yes,yes,yes,yes,Data engineer
+493,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+494,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+495,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+496,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+497,yes,no,yes,yes,yes,yes,yes,Data engineer
+498,no,yes,yes,no,yes,yes,no,AI consultant
+499,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+500,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+501,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+502,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+503,no,yesno,yes,yes,yes,yes,yes,Data analyst
+504,yes,yes,no,yes,no,yes,yes,Applied ml scientist
+505,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+506,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+507,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+508,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+509,yes,yes,yes,yesno,yes,no,yes,AI/ML researcher
+510,yes,yesno,yes,no,yes,no,yes,Data engineer
+511,yes,no,yes,yes,no,yes,yes,Software engineer
+512,no,yes,yes,yes,yes,yes,yes,AI consultant
+513,no,yes,yes,yes,yes,yes,no,AI consultant
+514,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+515,no,no,yes,yes,yes,yes,no,Business intelligence analyst
+516,no,no,yesno,yes,yes,yes,yes,Data analyst
+517,yes,no,yes,no,yes,yes,yes,Data engineer
+518,no,no,yes,yes,no,yes,yes,Data analyst
+519,no,yes,no,yes,yes,yes,yes,AI consultant
+520,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+521,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+522,yes,yes,no,no,no,yes,yes,ML Engineer
+523,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+524,yes,yes,yes,no,yes,no,no,AI/ML researcher
+525,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+526,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+527,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+528,yes,no,yes,yes,yes,yes,yes,Data engineer
+529,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+530,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+531,yes,no,yes,yes,yes,yes,no,Data engineer
+532,yes,no,no,yes,yes,no,yes,Data engineer
+533,no,yes,yes,yes,yes,yes,no,AI consultant
+534,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+535,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+536,yes,no,yes,yes,no,yes,yes,Software engineer
+537,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+538,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+539,no,yes,yes,yes,yes,no,yes,AI product manager
+540,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+541,yes,no,yesno,yes,yes,yes,yes,Data engineer
+542,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+543,no,no,no,yesno,yes,yes,yes,Data analyst
+544,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+545,no,yes,no,yes,yes,yes,yes,AI consultant
+546,yes,no,yes,no,yes,yes,yes,Data engineer
+547,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+548,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+549,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+550,yes,yes,no,no,yes,no,yes,ML Engineer
+551,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+552,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+553,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+554,no,no,yes,yes,yes,yes,no,Business intelligence analyst
+555,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+556,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+557,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+558,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+559,no,no,yes,yes,yes,yes,yes,Data analyst
+560,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+561,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+562,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+563,yes,no,yes,yes,no,yes,yes,Software engineer
+564,no,yes,yes,yes,yes,yes,yes,AI consultant
+565,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+566,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+567,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+568,no,yes,yes,yes,yes,yes,yes,AI consultant
+569,no,no,yes,yes,yes,no,no,Business intelligence analyst
+570,no,no,no,yes,yes,no,yes,Data analyst
+571,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+572,yes,no,yes,yes,yes,yes,yes,Data engineer
+573,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+574,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+575,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+576,no,yes,yes,yes,no,yes,no,AI consultant
+577,no,no,no,no,yes,yes,yes,Data analyst
+578,yes,no,no,yes,no,yes,yes,Software engineer
+579,yes,no,yes,yes,no,yes,yes,Software engineer
+580,yes,no,yes,yes,yes,yes,yes,Data engineer
+581,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+582,yes,yes,yes,yesno,yes,no,yes,AI/ML researcher
+583,yes,no,yes,no,yes,yes,no,Data engineer
+584,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+585,no,yes,yes,no,yesno,yes,yes,AI consultant
+586,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+587,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+588,no,no,yes,no,yes,yes,yes,Data analyst
+589,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+590,yes,no,yes,yes,yes,yes,yes,Data engineer
+591,no,yes,yes,yes,yes,yes,yes,AI consultant
+592,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+593,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+594,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+595,yes,yes,no,yesno,yes,yes,yes,ML Engineer
+596,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+597,no,yes,no,yes,no,yes,yes,AI consultant
+598,no,yes,yes,no,yes,yes,no,AI consultant
+599,no,yes,yes,yes,yes,yes,yes,AI consultant
+600,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+601,yes,no,yes,yes,yes,yes,yes,Data engineer
+602,yes,no,yes,yes,yes,no,yes,Data engineer
+603,no,yes,yes,yes,yes,yes,no,AI consultant
+604,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+605,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+606,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+607,yes,no,yes,yes,no,no,yes,Software engineer
+608,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+609,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+610,yes,yes,yes,yes,yesno,yes,no,AI/ML researcher
+611,yes,yes,no,yes,no,yesno,no,Applied ml scientist
+612,no,no,no,yes,yes,yes,yes,Data analyst
+613,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+614,yesno,yes,yes,yes,yes,no,no,AI product manager
+615,no,yes,no,yes,yes,no,yes,AI product manager
+616,yes,no,yes,no,yes,no,yes,Data engineer
+617,no,yes,no,yes,no,yes,yes,AI consultant
+618,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+619,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+620,no,yes,yes,yes,yes,yes,yes,AI consultant
+621,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+622,yes,no,yes,yes,yes,yes,yes,Data engineer
+623,no,yes,yes,yes,yes,no,yes,AI product manager
+624,no,yes,yes,yes,yes,yes,yes,AI consultant
+625,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+626,no,no,yes,no,yes,yes,no,Business intelligence analyst
+627,yes,no,yes,no,yes,no,no,Data engineer
+628,yes,no,yes,yes,yes,yes,yes,Data engineer
+629,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+630,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+631,yes,no,yes,no,yes,yes,yes,Data engineer
+632,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+633,no,no,yes,yes,yes,yes,no,Business intelligence analyst
+634,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+635,no,no,yes,yes,no,yes,yes,Data analyst
+636,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+637,no,no,no,yes,no,yes,yes,Data analyst
+638,no,yes,no,yes,no,yes,yes,AI consultant
+639,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+640,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+641,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+642,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+643,no,no,no,no,yes,yes,yes,Data analyst
+644,yes,no,yes,no,yes,yes,yes,Data engineer
+645,yes,no,yes,no,yes,yes,yes,Data engineer
+646,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+647,no,yes,yes,yes,yes,yes,yes,AI consultant
+648,yes,yes,yes,no,no,no,yes,AI/ML researcher
+649,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+650,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+651,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+652,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+653,yesno,yes,yes,yes,no,yes,yes,AI consultant
+654,no,yes,no,yes,yes,yes,yes,AI consultant
+655,no,yes,yes,no,no,yes,yes,AI consultant
+656,yes,no,yes,yes,yes,yes,no,Data engineer
+657,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+658,no,yes,yes,yes,yes,yes,no,AI consultant
+659,yes,no,yes,yes,no,no,no,Software engineer
+660,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+661,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+662,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+663,yes,no,yes,yes,no,yes,no,Software engineer
+664,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+665,no,yes,no,yes,yes,yes,yes,AI consultant
+666,yes,yes,yes,no,no,yes,no,AI/ML researcher
+667,yes,no,yes,yes,yes,yes,yes,Data engineer
+668,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+669,no,no,yes,yes,yes,yes,yes,Data analyst
+670,no,yes,yes,yes,yes,yes,yes,AI consultant
+671,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+672,no,yes,yes,yes,yes,no,no,AI product manager
+673,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+674,yes,no,yes,yes,yes,yes,yes,Data engineer
+675,yes,yes,yes,yes,yes,no,no,AI/ML researcher
+676,yes,yes,no,no,yes,yes,no,ML Engineer
+677,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+678,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+679,yes,no,yes,no,yes,yes,yes,Data engineer
+680,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+681,no,yes,yes,yes,no,no,yes,AI product manager
+682,yes,yes,yes,no,yes,yes,yesno,AI/ML researcher
+683,yes,no,yes,yes,no,yes,no,Software engineer
+684,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+685,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+686,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+687,yes,yes,no,no,no,yes,no,ML Engineer
+688,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+689,no,yes,yes,yes,yes,yes,yes,AI consultant
+690,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+691,yes,no,yes,yes,yes,yes,no,Data engineer
+692,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+693,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+694,no,yes,yes,yes,yes,yes,yes,AI consultant
+695,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+696,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+697,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+698,yes,yes,no,yes,yesno,yes,yes,Applied ml scientist
+699,yes,yes,no,no,yes,no,yes,ML Engineer
+700,no,yesno,no,yes,no,yes,yes,Data analyst
+701,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+702,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+703,yes,no,yes,no,yes,yes,yes,Data engineer
+704,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+705,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+706,no,yes,yes,yes,yes,yes,yes,AI consultant
+707,yes,no,no,no,yes,yes,no,Data engineer
+708,yes,no,yes,yes,no,yes,yes,Software engineer
+709,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+710,yes,yes,no,no,yes,yes,no,ML Engineer
+711,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+712,yes,yes,no,no,yes,yes,yes,ML Engineer
+713,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+714,yes,yes,yes,yes,no,no,no,AI/ML researcher
+715,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+716,yes,no,yes,yes,yes,yes,yes,Data engineer
+717,no,yes,yes,no,no,yes,yes,AI consultant
+718,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+719,no,yes,yes,yes,yes,yes,yes,AI consultant
+720,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+721,yes,no,yes,yes,yes,no,yes,Data engineer
+722,no,yes,yes,no,yes,yes,yes,AI consultant
+723,no,yes,yes,yes,yes,yes,yes,AI consultant
+724,no,yes,yes,no,yes,yes,yes,AI consultant
+725,no,no,yes,yes,no,yes,yes,Data analyst
+726,yes,yes,yes,yes,no,yes,no,AI/ML researcher
+727,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+728,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+729,yes,yes,no,yes,yes,yes,yesno,Applied ml scientist
+730,no,yes,yes,yes,yes,yes,no,AI consultant
+731,no,yes,no,yes,no,yes,yes,AI consultant
+732,no,no,yes,yes,yes,no,yes,Data analyst
+733,no,yes,yesno,yes,yes,no,yes,AI product manager
+734,yes,no,no,yes,yes,yes,yes,Data engineer
+735,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+736,no,yes,yes,yes,yes,no,no,AI product manager
+737,yes,yes,yes,no,yes,yes,no,AI/ML researcher
+738,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+739,yes,no,yes,no,no,yes,yes,Software engineer
+740,no,no,yes,yes,yes,no,yes,Data analyst
+741,yes,no,yes,yes,yes,yes,no,Data engineer
+742,no,yes,yes,yes,yes,no,no,AI product manager
+743,yes,yes,no,yes,yes,yes,yesno,Applied ml scientist
+744,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+745,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+746,yes,no,yes,yes,yes,yes,no,Data engineer
+747,no,yes,yes,no,yes,yes,yes,AI consultant
+748,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+749,yes,no,yes,yes,yes,yes,yes,Data engineer
+750,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+751,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+752,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+753,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+754,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+755,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+756,no,no,no,yes,yes,yes,yes,Data analyst
+757,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+758,no,no,yes,yes,yes,no,yes,Data analyst
+759,yes,no,no,no,yes,yes,yes,Data engineer
+760,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+761,yes,no,yes,no,no,yes,yes,Software engineer
+762,no,yes,yes,yes,yes,yes,yes,AI consultant
+763,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+764,yes,no,no,yes,no,no,yes,Software engineer
+765,yesno,yes,yes,no,no,yes,no,AI consultant
+766,yes,no,yes,yes,no,yes,no,Software engineer
+767,yesno,no,yes,no,yes,yes,yes,Data analyst
+768,yes,no,yes,yes,no,yes,yes,Software engineer
+769,no,no,yes,no,no,no,yes,Data analyst
+770,yes,yes,yes,yes,no,no,yes,AI/ML researcher
+771,yes,yes,yes,no,no,no,no,AI/ML researcher
+772,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+773,yes,no,yes,yes,yes,no,yes,Data engineer
+774,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+775,no,yes,yes,yes,yes,yes,yes,AI consultant
+776,no,yes,yes,yes,yes,no,yes,AI product manager
+777,yes,yes,no,yes,yesno,yes,no,Applied ml scientist
+778,no,yes,yes,yes,no,yes,yes,AI consultant
+779,no,yes,yes,yes,yes,yes,yes,AI consultant
+780,yes,no,yes,yes,no,yes,yes,Software engineer
+781,yes,yes,yes,yes,no,no,no,AI/ML researcher
+782,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+783,yes,yes,yes,yes,yes,yesno,yes,AI/ML researcher
+784,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+785,no,yes,yes,yes,yes,yes,yes,AI consultant
+786,yes,yes,no,yes,yes,yes,no,Applied ml scientist
+787,yes,no,yes,yes,yes,yes,yes,Data engineer
+788,yes,no,no,yes,no,yes,yes,Software engineer
+789,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+790,yes,no,yes,yes,yes,yes,yes,Data engineer
+791,yes,no,yes,yes,yes,yes,yes,Data engineer
+792,no,yes,no,yes,yes,yes,yes,AI consultant
+793,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+794,no,yes,no,yes,yes,no,yes,AI product manager
+795,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+796,no,yes,yes,yes,no,yes,yes,AI consultant
+797,yes,no,yes,yes,yes,no,yes,Data engineer
+798,no,yes,yes,yes,no,yes,no,AI consultant
+799,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+800,no,no,yes,yes,no,yes,yes,Data analyst
+801,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+802,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+803,yes,no,yes,yes,no,yes,yes,Software engineer
+804,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+805,yes,no,yes,yes,yes,yes,yes,Data engineer
+806,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+807,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+808,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+809,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+810,yes,yes,yes,yes,no,no,no,AI/ML researcher
+811,yesno,yes,yes,yes,yes,yes,yesno,AI consultant
+812,yes,yes,yes,no,yes,yes,yes,AI/ML researcher
+813,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+814,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+815,no,yes,yes,yes,yes,no,yes,AI product manager
+816,yes,no,no,no,no,no,no,Software engineer
+817,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+818,no,yes,yes,no,yes,yes,yes,AI consultant
+819,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+820,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+821,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+822,yes,no,yes,yes,yes,yes,yes,Data engineer
+823,no,yes,yes,yes,no,yes,yes,AI consultant
+824,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+825,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+826,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+827,yes,no,yes,no,yes,no,yes,Data engineer
+828,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+829,yes,no,yes,yes,no,yes,no,Software engineer
+830,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+831,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+832,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+833,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+834,yes,no,yes,yes,yes,yes,yes,Data engineer
+835,no,no,yes,yes,yes,yes,no,Business intelligence analyst
+836,yes,yes,yes,no,no,yes,yes,AI/ML researcher
+837,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+838,yes,no,yes,yes,yes,yes,yes,Data engineer
+839,no,yes,yes,yes,yes,yes,no,AI consultant
+840,yes,yes,no,yes,yes,yes,yes,Applied ml scientist
+841,no,yes,yes,yes,no,no,yes,AI product manager
+842,yes,yes,yes,yes,yes,yes,yes,AI/ML researcher
+843,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+844,no,no,yes,yes,no,yes,yes,Data analyst
+845,yes,yes,yes,yes,no,yes,yes,AI/ML researcher
+846,yes,yes,yes,no,no,yes,no,AI/ML researcher
+847,yes,yes,no,yes,yes,no,yes,Applied ml scientist
+848,yes,no,no,yes,yes,yes,yes,Data engineer
+849,yes,yes,yes,no,yes,no,yes,AI/ML researcher
+850,yes,yes,no,yes,no,no,yes,Applied ml scientist
+851,yes,no,yes,yes,yes,yes,yes,Data engineer
+852,yes,yes,yes,yes,yes,yes,no,AI/ML researcher
+853,yes,yes,yes,yes,yes,no,yes,AI/ML researcher
+854,yes,no,yes,yes,yes,yes,yes,Data engineer
+855,no,no,yes,yes,yes,no,yes,Data analyst
